@@ -4,20 +4,21 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      <h1>Esta es mi pagina personal</h1>
+      <h2>foto</h2>
+      <ul>
+        <li>About me</li>
+          <p>Descripcion - mis intereses - habilidades - experiencia - logros relevantes</p>
+        <li>Hoja de Vida</li>
+          <p>Lista de estudios - experiencia laboral - habilidades y logros importantes</p>
+        <li>Proyectos</li>
+          <p>Hacer un resumen de proyectos</p>
+        <li>MiniBLog</li>
+          <p>Hacer un miniblog</p>
+        <li>Portafolio</li>  
+      </ul>
+
     </div>
   );
 }
