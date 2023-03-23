@@ -8,7 +8,7 @@ function App() {
       <h1>Esta es mi pagina personal</h1>
       <h2>foto</h2>
       <ul>
-        <li>About me</li>
+        <li>About me fastr</li>
           <p>Descripcion - mis intereses - habilidades - experiencia - logros relevantes</p>
         <li>Hoja de Vida</li>
           <p>Lista de estudios - experiencia laboral - habilidades y logros importantes</p>
